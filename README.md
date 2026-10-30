@@ -856,9 +856,9 @@ Example response from the API reference, abridged — real values depend on the 
     ],
     "contact": {
       "email": "example",
-      "id_rcu": "RC-082608",
-      "img_url": "https://v.seloger.com/s/width/150/logos/0/x/q/v/0xqv4maey1fc6dtb7les934ocr8k2ue8850ffaueo.jpg",
-      "agency_id": 76929,
+      "id_rcu": "example",
+      "img_url": "example",
+      "agency_id": 0,
       "agency_link": null,
       "agency_page": null,
       "contact_name": "example",
@@ -906,11 +906,11 @@ Example response from the API reference, abridged — real values depend on the 
     ],
     "contact": {
       "email": "example",
-      "id_rcu": "RC-035271",
-      "img_url": "https://v.seloger.com/s/width/150/logos/1/i/8/7/1i870528o8j063099u4r7sk9gqvgr35b1ur2ejaez.jpg",
-      "agency_id": 3088,
+      "id_rcu": "example",
+      "img_url": "example",
+      "agency_id": 0,
       "agency_link": null,
-      "agency_page": "/professionnels/agences-immobilieres/bordeaux-33000/agence-48208/",
+      "agency_page": "example",
       "contact_name": "example",
       "phone_number": "example",
       "is_private_seller": false
