@@ -78,7 +78,7 @@ response = requests.get(
     params={
         "query": "https://www.seloger.com/professionnels/agences-immobilieres/castanet-tolosan-31320/agence-21719",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -266,7 +266,7 @@ response = requests.get(
     params={
         "query": "18317",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -389,7 +389,7 @@ response = requests.get(
     params={
         "query": "18317",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -526,7 +526,7 @@ response = requests.get(
     params={
         "query": "https://www.seloger.com/annonces/achat/appartement/bordeaux-33/capucins-saint-michel-nansouty-saint-genes/234462129.htm",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -750,7 +750,7 @@ response = requests.get(
     params={
         "query": "https://www.seloger.com/annonces/achat/appartement/bordeaux-33/",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
